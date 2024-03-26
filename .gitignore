@@ -4,3 +4,6 @@ venv
 .pytest_cache
 .env
 *__pycahce__*
+repo_structure_from_llm_1.ipynb
+*aider*
+*cpy*
